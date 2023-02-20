@@ -1,9 +1,29 @@
-# Assignment 1 - Introduction to Vue.js Development and Deployment
+# .
 
-[Click here for details of the Assignment](https://unomail-my.sharepoint.com/:w:/g/personal/spawaskar_unomaha_edu/EaByt5kUGRFJmPCJETNBCY8BfzAhSZIiIG9nvtIZXRAD_A?e=gHxypr)
+This template should help get you started developing with Vue 3 in Vite.
 
-[Click here for the Tutorial](https://unomail-my.sharepoint.com/:w:/g/personal/spawaskar_unomaha_edu/ERqU9jVnc6NCqkLN_lvo60IBr0ljuaEbjAE1JesORctI_g?e=RXjzWg)
+## Recommended IDE Setup
 
-[Directions for Deploying Vue Apps to Netlify](https://unomaha.instructure.com/courses/61392/pages/deploy-vue-dot-js-apps-to-netlify?module_item_id=1975504)
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
+## Customize configuration
 
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
